@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 7f5dcbac9cf9e4a498fa7ba9df548852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8850409310563530440
+    second: waytoodank_0
+  - first:
+      213: 1428281906256640108
+    second: waytoodank_1
+  - first:
+      213: 7142063304895751718
+    second: waytoodank_2
+  - first:
+      213: 2556051694774646962
+    second: waytoodank_3
+  - first:
+      213: 8013534102792076523
+    second: waytoodank_4
+  - first:
+      213: -8326236024596574050
+    second: waytoodank_5
+  - first:
+      213: 2299240053703845707
+    second: waytoodank_6
+  - first:
+      213: 617339887715603756
+    second: waytoodank_7
+  - first:
+      213: -8812696401239824846
+    second: waytoodank_8
+  - first:
+      213: -8957014616948193693
+    second: waytoodank_9
+  - first:
+      213: 4124895255915760524
+    second: waytoodank_10
+  - first:
+      213: 2135432923426849035
+    second: waytoodank_11
+  - first:
+      213: 4563454407242989707
+    second: waytoodank_12
+  - first:
+      213: 9039157969527461801
+    second: waytoodank_13
+  - first:
+      213: -5959468868866427626
+    second: waytoodank_14
+  - first:
+      213: 2160029052341301521
+    second: waytoodank_15
+  - first:
+      213: -8928298457173507297
+    second: waytoodank_16
+  - first:
+      213: -1123638469719938280
+    second: waytoodank_17
+  - first:
+      213: -2502346484627249850
+    second: waytoodank_18
+  - first:
+      213: 7543431040320062792
+    second: waytoodank_19
+  - first:
+      213: -3977659342174448768
+    second: waytoodank_20
+  - first:
+      213: -6785425656905365805
+    second: waytoodank_21
+  - first:
+      213: -647465277130931470
+    second: waytoodank_22
+  - first:
+      213: 7795899118577638377
+    second: waytoodank_23
+  - first:
+      213: 2254731038570713964
+    second: waytoodank_24
+  - first:
+      213: -4299261137994820333
+    second: waytoodank_25
+  - first:
+      213: -6022884917350004495
+    second: waytoodank_26
+  - first:
+      213: 7752364014008854723
+    second: waytoodank_27
+  - first:
+      213: -1970242782209565134
+    second: waytoodank_28
+  - first:
+      213: -4740083349651982278
+    second: waytoodank_29
+  - first:
+      213: 617383885822997448
+    second: waytoodank_30
+  - first:
+      213: -482148455906614116
+    second: waytoodank_31
+  - first:
+      213: -3915938480697784046
+    second: waytoodank_32
+  - first:
+      213: 5154819715655106634
+    second: waytoodank_33
+  - first:
+      213: -6407393422157740486
+    second: waytoodank_34
+  - first:
+      213: -750091688370265571
+    second: waytoodank_35
+  - first:
+      213: 5234531146337727066
+    second: waytoodank_36
+  - first:
+      213: 2557770826350522619
+    second: waytoodank_37
+  - first:
+      213: 1790416572302443541
+    second: waytoodank_38
+  - first:
+      213: 838418205850485847
+    second: waytoodank_39
+  - first:
+      213: -3668783030987500574
+    second: waytoodank_40
+  - first:
+      213: -8419471681854408691
+    second: waytoodank_41
+  - first:
+      213: -5688971509994726659
+    second: waytoodank_42
+  - first:
+      213: -4597927497158902530
+    second: waytoodank_43
+  - first:
+      213: 2975654213942553103
+    second: waytoodank_44
+  - first:
+      213: 8152695702455281159
+    second: waytoodank_45
+  - first:
+      213: -1186776289804026385
+    second: waytoodank_46
+  - first:
+      213: -7445529247854998106
+    second: waytoodank_47
+  - first:
+      213: 2148931972578148427
+    second: waytoodank_48
+  - first:
+      213: 7974076294361832511
+    second: waytoodank_49
+  - first:
+      213: 8660160430980958913
+    second: waytoodank_50
+  - first:
+      213: -1259964192384578674
+    second: waytoodank_51
+  - first:
+      213: 3001529770704261762
+    second: waytoodank_52
+  - first:
+      213: -3720409818494110231
+    second: waytoodank_53
+  - first:
+      213: 7481528472816902464
+    second: waytoodank_54
+  - first:
+      213: -990184314328978595
+    second: waytoodank_55
+  - first:
+      213: 4670810027718357715
+    second: waytoodank_56
+  - first:
+      213: -3401747736627917497
+    second: waytoodank_57
+  - first:
+      213: -6209479979322107710
+    second: waytoodank_58
+  - first:
+      213: -407298779219032813
+    second: waytoodank_59
+  - first:
+      213: -2981480328910878769
+    second: waytoodank_60
+  - first:
+      213: 8270360315167506365
+    second: waytoodank_61
+  - first:
+      213: 5108005321433728217
+    second: waytoodank_62
+  - first:
+      213: -3916679983273120534
+    second: waytoodank_63
+  - first:
+      213: -1175272546039627965
+    second: waytoodank_64
+  - first:
+      213: -190601825321260856
+    second: waytoodank_65
+  - first:
+      213: 8763258236879227244
+    second: waytoodank_66
+  - first:
+      213: 1057982234964537762
+    second: waytoodank_67
+  - first:
+      213: 1904036339580055633
+    second: waytoodank_68
+  - first:
+      213: 6028447667182422931
+    second: waytoodank_69
+  - first:
+      213: 9079768756530810751
+    second: waytoodank_70
+  - first:
+      213: -2341429898449117726
+    second: waytoodank_71
+  - first:
+      213: -5063312991857307455
+    second: waytoodank_72
+  - first:
+      213: 7133721408662060044
+    second: waytoodank_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waytoodank_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1904
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f2f06068f2da70800000000000000
+      internalID: 8850409310563530440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1904
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687b8d83d642d310800000000000000
+      internalID: 1428281906256640108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e9ab4cb4bd1360800000000000000
+      internalID: 7142063304895751718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1792
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f39e497be87320800000000000000
+      internalID: 2556051694774646962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1792
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec76681fcac53f60800000000000000
+      internalID: 8013534102792076523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1792
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905cdd2374437c80800000000000000
+      internalID: -8326236024596574050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b472e5e95aa88ef10800000000000000
+      internalID: 2299240053703845707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d7f86b5b319800800000000000000
+      internalID: 617339887715603756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1680
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236acb2905303b580800000000000000
+      internalID: -8812696401239824846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1680
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36642d489aa42b380800000000000000
+      internalID: -8957014616948193693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1680
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8d8071629e3930800000000000000
+      internalID: 4124895255915760524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1680
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01088a0ee492ad10800000000000000
+      internalID: 2135432923426849035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c86cea95a45f30800000000000000
+      internalID: 4563454407242989707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1568
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a75352284a817d70800000000000000
+      internalID: 9039157969527461801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1568
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b73d63a6bb4da0800000000000000
+      internalID: -5959468868866427626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1568
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b3519af6f9fd10800000000000000
+      internalID: 2160029052341301521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1568
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13418b7bdf481480800000000000000
+      internalID: -8928298457173507297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b216cd3c80860f0800000000000000
+      internalID: -1123638469719938280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1456
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64568d65121e54dd0800000000000000
+      internalID: -2502346484627249850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1456
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845cee97096afa860800000000000000
+      internalID: 7543431040320062792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1456
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839d2027e38cc8c0800000000000000
+      internalID: -3977659342174448768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1456
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68556d05355d1a0800000000000000
+      internalID: -6785425656905365805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20638c2cdb307f0800000000000000
+      internalID: -647465277130931470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1344
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd993a1f8903c60800000000000000
+      internalID: 7795899118577638377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1344
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c631e0afee96a4f10800000000000000
+      internalID: 2254731038570713964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1344
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3155d2106c4f554c0800000000000000
+      internalID: -4299261137994820333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88b4a041a6a6ca0800000000000000
+      internalID: -6022884917350004495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e4883ffde59b60800000000000000
+      internalID: 7752364014008854723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1232
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1f1dd0aa48a4e0800000000000000
+      internalID: -1970242782209565134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1232
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ff3abe47d73eb0800000000000000
+      internalID: -4740083349651982278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1232
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b7848f53619800800000000000000
+      internalID: 617383885822997448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1232
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94eeaca8801f49f0800000000000000
+      internalID: -482148455906614116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c9b703bac7a9c0800000000000000
+      internalID: -3915938480697784046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1120
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408dc05839998740800000000000000
+      internalID: 5154819715655106634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360d1061ad5417a0800000000000000
+      internalID: -6407393422157740486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1120
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a7b565932795f0800000000000000
+      internalID: -750091688370265571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1120
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52bd27085ac4a840800000000000000
+      internalID: 5234531146337727066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0fa71d3070f7320800000000000000
+      internalID: 2557770826350522619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1008
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144f00f266d8d810800000000000000
+      internalID: 1790416572302443541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1008
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75440f48ae8a2ab00800000000000000
+      internalID: 838418205850485847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1008
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35208754dd51dc0800000000000000
+      internalID: -3668783030987500574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1008
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d087b961d17082b80800000000000000
+      internalID: -8419471681854408691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa52799d86bc01b0800000000000000
+      internalID: -5688971509994726659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 896
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcb7dc5d41e030c0800000000000000
+      internalID: -4597927497158902530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa07cedb5ab4920800000000000000
+      internalID: 2975654213942553103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70663baeb81342170800000000000000
+      internalID: 8152695702455281159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedff529049b78fe0800000000000000
+      internalID: -1186776289804026385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad42d0e89a2ca890800000000000000
+      internalID: -7445529247854998106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 784
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4000085e3a82dd10800000000000000
+      internalID: 2148931972578148427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 784
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cdc49242c99ae60800000000000000
+      internalID: 7974076294361832511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 784
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca838a47021f2870800000000000000
+      internalID: 8660160430980958913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 784
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b843b1e35b38ee0800000000000000
+      internalID: -1259964192384578674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28256957c6397a920800000000000000
+      internalID: 3001529770704261762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e578cd4bf27e5cc0800000000000000
+      internalID: -3720409818494110231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e837d18ab3d760800000000000000
+      internalID: 7481528472816902464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be142cc982242f0800000000000000
+      internalID: -990184314328978595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23c7329fc02d040800000000000000
+      internalID: 4670810027718357715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dcdcee4709ac0d0800000000000000
+      internalID: -3401747736627917497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81b98abde73d9a0800000000000000
+      internalID: -6209479979322107710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 560
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31503331bebf85af0800000000000000
+      internalID: -407298779219032813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 560
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c37aff67af96d0800000000000000
+      internalID: -2981480328910878769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbffb0e63e836c270800000000000000
+      internalID: 8270360315167506365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ccd6c6c743e640800000000000000
+      internalID: 5108005321433728217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec6f128e4825a9c0800000000000000
+      internalID: -3916679983273120534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff903a8d790bfe0800000000000000
+      internalID: -1175272546039627965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86f2456a8da5df0800000000000000
+      internalID: -190601825321260856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69c33ccfe85d9970800000000000000
+      internalID: 8763258236879227244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a13cbdbc35beae00800000000000000
+      internalID: 1057982234964537762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ba1c76fe7c6a10800000000000000
+      internalID: 1904036339580055633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc075963959a350800000000000000
+      internalID: 6028447667182422931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f85bfc391d10e70800000000000000
+      internalID: 9079768756530810751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed167ca9e1918fd0800000000000000
+      internalID: -2341429898449117726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c099b519af7bb9b0800000000000000
+      internalID: -5063312991857307455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waytoodank_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 112
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb6e933d1100360800000000000000
+      internalID: 7133721408662060044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

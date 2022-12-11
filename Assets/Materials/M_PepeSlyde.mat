@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_PepeSlyde
+  m_Shader: {fileID: -6465566751694194690, guid: 83e5079bace15ca4f8d6cdfc88e104b0,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_16783785:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_1A509D19:
+        m_Texture: {fileID: 2800000, guid: 288bd825c7843e347b1c942a1d3a4105, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_48F3AA7:
+        m_Texture: {fileID: 2800000, guid: 748e1913b1ffd2e47aa21996f1c3c6bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BD062BE6:
+        m_Texture: {fileID: 2800000, guid: 6c16557d856364c468fb0225105a0834, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BodyMask:
+        m_Texture: {fileID: 2800000, guid: 49b95ec576d6a8043967a4e9d0db2631, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EyesMask:
+        m_Texture: {fileID: 2800000, guid: d3c55dd1fcbaaac45846a0922c54b18c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LipsMask:
+        m_Texture: {fileID: 2800000, guid: f940034c50c2db54482240ef9b379a4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 288bd825c7843e347b1c942a1d3a4105, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PantyMask:
+        m_Texture: {fileID: 2800000, guid: 4a6b9d538d43ec8469c9e2bd498ecdda, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_8173BAD1: 1
+    - Vector1_FE26F3BA: 1
+    - _Thickness: 1
+    m_Colors:
+    - Color_22447D97: {r: 1, g: 0, b: 0, a: 0}
+    - Color_3C7E48A6: {r: 1, g: 0, b: 0.05156803, a: 0}
+    - Vector2_9414703D: {r: 10, g: 10, b: 0, a: 0}
+    - _BodyColor: {r: 1, g: 0.3915094, b: 0.8693886, a: 0}
+    - _EyesColor: {r: 1, g: 0.9647059, b: 0.6901961, a: 0}
+    - _LipsColor: {r: 0.6784314, g: 0.282353, b: 0, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0.8156863}
+    - _PantyColor: {r: 0, g: 0.1019608, b: 1, a: 0}

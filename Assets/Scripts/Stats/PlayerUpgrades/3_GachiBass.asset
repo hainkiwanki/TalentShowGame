@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80fd417b60389704aa3469694c339cfd, type: 3}
+  m_Name: 3_GachiBass
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: bed39ae69ea356b43a37c8041cf0bf3a, type: 2}
+    - {fileID: 11400000, guid: bd4934f88c78f1f4585c77cb6fa3611f, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: modifiers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[PlayerModifier, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|PlayerModifier, Assembly-CSharp
+    - Name: stat
+      Entry: 3
+      Data: 1
+    - Name: modifer
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|PlayerModifier, Assembly-CSharp
+    - Name: stat
+      Entry: 3
+      Data: 6
+    - Name: modifer
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  name: GachiBass
+  description: Increases damage slightly.
+  hasAnimation: 1
+  animationName: gachibass
+  icon: {fileID: -1088225176985557421, guid: 80872b3c625ff774dbbbe9038d41506f, type: 3}
+  oneTimeOnly: 0
+  chance: 100

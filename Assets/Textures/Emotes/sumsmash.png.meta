@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: bf0c9303e68c6414fa5a613f5bd73bd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 556105574850916473
+    second: sumsmash_0
+  - first:
+      213: 7139606989048408993
+    second: sumsmash_1
+  - first:
+      213: 5004375994766457332
+    second: sumsmash_2
+  - first:
+      213: 5427562106812015336
+    second: sumsmash_3
+  - first:
+      213: 3755497458207783043
+    second: sumsmash_4
+  - first:
+      213: -1047155130984988875
+    second: sumsmash_5
+  - first:
+      213: -6736006443217531166
+    second: sumsmash_6
+  - first:
+      213: -7943375808634003963
+    second: sumsmash_7
+  - first:
+      213: -5236396502485742173
+    second: sumsmash_8
+  - first:
+      213: 2047558484414384467
+    second: sumsmash_9
+  - first:
+      213: 3386308862011703076
+    second: sumsmash_10
+  - first:
+      213: -1016746436545486222
+    second: sumsmash_11
+  - first:
+      213: -8372438100060482539
+    second: sumsmash_12
+  - first:
+      213: 455637714724235412
+    second: sumsmash_13
+  - first:
+      213: -5883749483580621017
+    second: sumsmash_14
+  - first:
+      213: -7461362410760185500
+    second: sumsmash_15
+  - first:
+      213: 9036164575633423608
+    second: sumsmash_16
+  - first:
+      213: 4934513510024426234
+    second: sumsmash_17
+  - first:
+      213: -1229199614567881758
+    second: sumsmash_18
+  - first:
+      213: 6894710264637303090
+    second: sumsmash_19
+  - first:
+      213: -8253734772334887142
+    second: sumsmash_20
+  - first:
+      213: -170420730388366347
+    second: sumsmash_21
+  - first:
+      213: -3570729957386234611
+    second: sumsmash_22
+  - first:
+      213: 1376654420314989132
+    second: sumsmash_23
+  - first:
+      213: 7575514792007085205
+    second: sumsmash_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sumsmash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707a9ee21fa7b700800000000000000
+      internalID: 556105574850916473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab6022babaf41360800000000000000
+      internalID: 7139606989048408993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9fb82f37d137540800000000000000
+      internalID: 5004375994766457332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 424
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2a6eccaf2925b40800000000000000
+      internalID: 5427562106812015336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 424
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887b5f6a053e1430800000000000000
+      internalID: 3755497458207783043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f79e8d4f1c771f0800000000000000
+      internalID: -1047155130984988875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec64b24d5e482a0800000000000000
+      internalID: -6736006443217531166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 318
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e50f0b9c573c190800000000000000
+      internalID: -7943375808634003963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 318
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad4d36ef159457b0800000000000000
+      internalID: -5236396502485742173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 318
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594b58d7936a6c10800000000000000
+      internalID: 2047558484414384467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff6f3f7f59efe20800000000000000
+      internalID: 3386308862011703076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ef0fb08ac3e1f0800000000000000
+      internalID: -1016746436545486222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d2f538ef1fcb80800000000000000
+      internalID: -8372438100060482539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 212
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a8646610c25600800000000000000
+      internalID: 455637714724235412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 212
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff9c3a409b85ea0800000000000000
+      internalID: -5883749483580621017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469df2e5b6ae37890800000000000000
+      internalID: -7461362410760185500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc399e4ec7e66d70800000000000000
+      internalID: 9036164575633423608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af23f58a4e9ea7440800000000000000
+      internalID: 4934513510024426234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 106
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e362af867101fee0800000000000000
+      internalID: -1229199614567881758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 106
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23922f8b47eeeaf50800000000000000
+      internalID: 6894710264637303090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f70b864f7d47d80800000000000000
+      internalID: -8253734772334887142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbb6d6af3b82adf0800000000000000
+      internalID: -170420730388366347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d525b508327ec0800000000000000
+      internalID: -3570729957386234611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumsmash_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a855c6ebda1310800000000000000
+      internalID: 1376654420314989132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

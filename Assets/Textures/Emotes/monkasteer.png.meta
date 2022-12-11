@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: b9fb802446a793d409b4fb62cb07ea0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7409007303442476659
+    second: monkasteer_0
+  - first:
+      213: 579375465848177510
+    second: monkasteer_1
+  - first:
+      213: 7512373925946848228
+    second: monkasteer_2
+  - first:
+      213: -363489275757530271
+    second: monkasteer_3
+  - first:
+      213: 949123318167288417
+    second: monkasteer_4
+  - first:
+      213: 603204976497770497
+    second: monkasteer_5
+  - first:
+      213: -5232838869227606472
+    second: monkasteer_6
+  - first:
+      213: -7919961014187658915
+    second: monkasteer_7
+  - first:
+      213: -3141917201562376201
+    second: monkasteer_8
+  - first:
+      213: -1238322025803610035
+    second: monkasteer_9
+  - first:
+      213: -8600488568230940691
+    second: monkasteer_10
+  - first:
+      213: -4732851614395145544
+    second: monkasteer_11
+  - first:
+      213: -7112547705196378864
+    second: monkasteer_12
+  - first:
+      213: -523701375168097516
+    second: monkasteer_13
+  - first:
+      213: -2576544237826922171
+    second: monkasteer_14
+  - first:
+      213: 1986940788237127608
+    second: monkasteer_15
+  - first:
+      213: -3360197839409094980
+    second: monkasteer_16
+  - first:
+      213: 6440807233863662064
+    second: monkasteer_17
+  - first:
+      213: 130170033402822672
+    second: monkasteer_18
+  - first:
+      213: 6417855926173919978
+    second: monkasteer_19
+  - first:
+      213: -7542039340633404637
+    second: monkasteer_20
+  - first:
+      213: 2262543168458662966
+    second: monkasteer_21
+  - first:
+      213: 4575234821267822973
+    second: monkasteer_22
+  - first:
+      213: 83995557530047512
+    second: monkasteer_23
+  - first:
+      213: 6624316456769734504
+    second: monkasteer_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkasteer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815904bc1bed2990800000000000000
+      internalID: -7409007303442476659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 400
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630571aaea5a0800800000000000000
+      internalID: 579375465848177510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 400
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f7fb8840514860800000000000000
+      internalID: 7512373925946848228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 400
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fec6fd60a4faf0800000000000000
+      internalID: -363489275757530271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 400
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab66311a6fb2d00800000000000000
+      internalID: 949123318167288417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c5eeeab30f5800800000000000000
+      internalID: 603204976497770497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 300
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee4d0f5c83167b0800000000000000
+      internalID: -5232838869227606472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 300
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f66a5b65a61290800000000000000
+      internalID: -7919961014187658915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76f27a3faa564d0800000000000000
+      internalID: -3141917201562376201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 300
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480f6eada890dee0800000000000000
+      internalID: -1238322025803610035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def69cbe63de4a880800000000000000
+      internalID: -8600488568230940691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 200
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e75d4888815eb0800000000000000
+      internalID: -4732851614395145544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 200
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01500c7cb872b4d90800000000000000
+      internalID: -7112547705196378864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413d8bcbf507bb8f0800000000000000
+      internalID: -523701375168097516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5492f34baa64e3cd0800000000000000
+      internalID: -2576544237826922171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfcb90ae18039b10800000000000000
+      internalID: 1986940788237127608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 100
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5cfe3edd2e51d0800000000000000
+      internalID: -3360197839409094980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b539ed08526950800000000000000
+      internalID: 6440807233863662064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104069a4f47ec100800000000000000
+      internalID: 130170033402822672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 100
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6b3b26fdc01950800000000000000
+      internalID: 6417855926173919978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b468bdd2b455790800000000000000
+      internalID: -7542039340633404637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63427f4360b266f10800000000000000
+      internalID: 2262543168458662966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799aad44df7e7f30800000000000000
+      internalID: 4575234821267822973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkasteer_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 110
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141a49b3896a2100800000000000000
+      internalID: 83995557530047512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

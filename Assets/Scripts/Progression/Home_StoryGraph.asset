@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3715833473828054646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e315d52df9e4c1b4793304a915ccdd28, type: 3}
+  m_Name: Begin
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -424, y: -136}
+  ports:
+    keys:
+    - next
+    - prev
+    values:
+    - _fieldName: next
+      _node: {fileID: -3715833473828054646}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: prev
+        node: {fileID: 5150505236204024407}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: prev
+      _node: {fileID: -3715833473828054646}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  type: 0
+  progress: 0
+  next: {fileID: 5150505236204024407}
+  prev: {fileID: 0}
+  isdone: 1
+  isDefault: 0
+  soundEventPath: 
+--- !u!114 &-3042428672718190318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cba9f4158dcec40b7f39b4a155f34a, type: 3}
+  m_Name: Speak
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 152, y: -136}
+  ports:
+    keys:
+    - next
+    - prev
+    values:
+    - _fieldName: next
+      _node: {fileID: -3042428672718190318}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: prev
+        node: {fileID: 1321655039286528979}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: prev
+      _node: {fileID: -3042428672718190318}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 5150505236204024407}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  type: 1
+  progress: 1
+  next: {fileID: 1321655039286528979}
+  prev: {fileID: 5150505236204024407}
+  isdone: 1
+  isDefault: 0
+  soundEventPath: event:/Voices/Brian1b
+  speaker: Brian
+  nodeType: 2
+  delayBefore: 0.2
+  text: My name is Brian. And please address me as such. incorporative behaviour
+    will be punished severely.
+  delayAfter: 0
+  time: 0
+  waitForContinue: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c14e052828147449a90135ecc16e95c, type: 3}
+  m_Name: Home_StoryGraph
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -3715833473828054646}
+  - {fileID: 5150505236204024407}
+  - {fileID: -3042428672718190318}
+  - {fileID: 1321655039286528979}
+--- !u!114 &1321655039286528979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cba9f4158dcec40b7f39b4a155f34a, type: 3}
+  m_Name: Speak
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 440, y: -136}
+  ports:
+    keys:
+    - next
+    - prev
+    values:
+    - _fieldName: next
+      _node: {fileID: 1321655039286528979}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: prev
+      _node: {fileID: 1321655039286528979}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: -3042428672718190318}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  type: 1
+  progress: 0
+  next: {fileID: 0}
+  prev: {fileID: -3042428672718190318}
+  isdone: 0
+  isDefault: 0
+  soundEventPath: 
+  speaker: 
+  nodeType: 1
+  delayBefore: 0.2
+  text: Text
+  delayAfter: 0
+  time: 0
+  waitForContinue: 0
+--- !u!114 &5150505236204024407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cba9f4158dcec40b7f39b4a155f34a, type: 3}
+  m_Name: Speak
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -136, y: -136}
+  ports:
+    keys:
+    - next
+    - prev
+    values:
+    - _fieldName: next
+      _node: {fileID: 5150505236204024407}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: prev
+        node: {fileID: -3042428672718190318}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: prev
+      _node: {fileID: 5150505236204024407}
+      _typeQualifiedName: BaseNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: -3715833473828054646}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  type: 1
+  progress: 1
+  next: {fileID: -3042428672718190318}
+  prev: {fileID: -3715833473828054646}
+  isdone: 1
+  isDefault: 0
+  soundEventPath: event:/Voices/Brian1a
+  speaker: ???
+  nodeType: 2
+  delayBefore: 0.2
+  text: Hello Jinny. I am your guide through this game.
+  delayAfter: 0
+  time: 0
+  waitForContinue: 0
