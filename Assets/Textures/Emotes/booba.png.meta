@@ -189,7 +189,7 @@ TextureImporter:
       213: 1699028670221652152
     second: booba_61
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -209,6 +209,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -218,11 +220,11 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -240,10 +242,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -271,6 +277,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1596,6 +1614,69 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      booba_0: 6355538121822919287
+      booba_1: 3414225445146385358
+      booba_10: 5389383245051646067
+      booba_11: 2743949310483514915
+      booba_12: 517877144314764642
+      booba_13: 3647933127973438540
+      booba_14: -4920991827422514889
+      booba_15: 1165594299465593051
+      booba_16: 8802646049053258993
+      booba_17: -5229664504003083677
+      booba_18: -7085040271690746766
+      booba_19: -2832269035753833446
+      booba_2: -3075018482082068338
+      booba_20: 6406956620029152895
+      booba_21: -2034766963912194437
+      booba_22: 5552492080457808393
+      booba_23: -4856455340490088390
+      booba_24: -8546567438823968262
+      booba_25: 1959623616396148468
+      booba_26: -6223986782740179878
+      booba_27: 8437432461085913163
+      booba_28: 7035382160107910302
+      booba_29: -4216280939348321872
+      booba_3: 2319113824159628492
+      booba_30: -3777933190460515
+      booba_31: 6135142284340035558
+      booba_32: -5308386815655647972
+      booba_33: -7859585985208606396
+      booba_34: -4896536920023718681
+      booba_35: 918135530294734885
+      booba_36: 6214463905631455190
+      booba_37: -7765523948480481446
+      booba_38: -8214335698683117685
+      booba_39: 5032164713320094102
+      booba_4: -7566096265257528309
+      booba_40: 8781899375073430204
+      booba_41: -3647837216651860941
+      booba_42: -4168540556664135412
+      booba_43: -2794556561961551309
+      booba_44: 4601498924061241628
+      booba_45: -3462708424270924939
+      booba_46: -656283041527930458
+      booba_47: -1448276268240091451
+      booba_48: -5328025837811629575
+      booba_49: -4724576786610091158
+      booba_5: 4688202563056174257
+      booba_50: -1309786221249543023
+      booba_51: 7770819435577854105
+      booba_52: -8969140738956730129
+      booba_53: -3194947694114434383
+      booba_54: -6456220960818191891
+      booba_55: 1792234910339765595
+      booba_56: -1650178578808629355
+      booba_57: 9119430352397035572
+      booba_58: 8716536201850993028
+      booba_59: -5697736891948906523
+      booba_6: 1955477027643346667
+      booba_60: -6689523765976868545
+      booba_61: 1699028670221652152
+      booba_7: -1206477016410745369
+      booba_8: -2380989227307670402
+      booba_9: 7563327041508242698
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

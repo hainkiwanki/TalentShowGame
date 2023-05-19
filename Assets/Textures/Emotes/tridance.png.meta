@@ -90,7 +90,7 @@ TextureImporter:
       213: -8604979512913427414
     second: tridance_28
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -110,6 +110,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -119,8 +121,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -141,10 +143,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -172,6 +178,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -804,6 +822,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tridance_0: -6016258068147508741
+      tridance_1: -5833135553899198708
+      tridance_10: -196981316607844104
+      tridance_11: -2426516577089377925
+      tridance_12: -2666348307524623507
+      tridance_13: 6762220953048412527
+      tridance_14: 2848589414592396006
+      tridance_15: 1404376878265457839
+      tridance_16: -8937507703858694646
+      tridance_17: 3145218943109265468
+      tridance_18: -3490845658510883673
+      tridance_19: -4252508211859924257
+      tridance_2: -2600687733417253167
+      tridance_20: 3046069623468592280
+      tridance_21: 5642764491428382752
+      tridance_22: 7581771274578135665
+      tridance_23: 2710749522137212649
+      tridance_24: 6102653602412857685
+      tridance_25: 6711516959973412672
+      tridance_26: 386798665870333698
+      tridance_27: -5808351723641100053
+      tridance_28: -8604979512913427414
+      tridance_3: -421428923043106876
+      tridance_4: -7336000984569158716
+      tridance_5: -6274929201741070153
+      tridance_6: 8464038342452718176
+      tridance_7: 4915206220490940032
+      tridance_8: 4553472328064576826
+      tridance_9: 4477730048104055131
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

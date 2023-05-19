@@ -183,7 +183,7 @@ TextureImporter:
       213: -8309526907319175459
     second: coggers_59
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -203,6 +203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -212,8 +214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -234,10 +236,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -265,6 +271,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1548,6 +1566,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      coggers_0: 8438370545136904283
+      coggers_1: 2572592049243368913
+      coggers_10: -4884685479533667035
+      coggers_11: 4704051589266196356
+      coggers_12: 7879007509497306885
+      coggers_13: 6731730675983606326
+      coggers_14: 738619294457136336
+      coggers_15: 73365489356289688
+      coggers_16: -6036867013964325234
+      coggers_17: -5444820636577726185
+      coggers_18: -830166728319729902
+      coggers_19: -6709638344520214235
+      coggers_2: 5714493770845153672
+      coggers_20: -3356863496128861276
+      coggers_21: -2632613799201496866
+      coggers_22: -3795238971839750453
+      coggers_23: 4224215327940411759
+      coggers_24: 6569778441191429009
+      coggers_25: 1575718464941789245
+      coggers_26: 851701615263117982
+      coggers_27: 2592954591724772786
+      coggers_28: -5828657377736319423
+      coggers_29: -6591113478340983319
+      coggers_3: 91477606418413585
+      coggers_30: -2601526023063564462
+      coggers_31: 517672902317077789
+      coggers_32: 1273854342068237380
+      coggers_33: 7385192539551791212
+      coggers_34: 4176376623724361263
+      coggers_35: -4409340151147023361
+      coggers_36: -2832294381323887771
+      coggers_37: 4645740236889389575
+      coggers_38: 8790466366077909397
+      coggers_39: -4381383259889522744
+      coggers_4: -3007790027444382168
+      coggers_40: 6848279189745933645
+      coggers_41: -4525624007560814760
+      coggers_42: 4396653782207186823
+      coggers_43: -7485749257849496504
+      coggers_44: -8957512556765572823
+      coggers_45: -5958077134252660954
+      coggers_46: -8774257279398601602
+      coggers_47: 6800015180939608010
+      coggers_48: -3088399603416663236
+      coggers_49: -6898347215396330557
+      coggers_5: 8759376342452530683
+      coggers_50: 5728761914474753404
+      coggers_51: -6147452184741928253
+      coggers_52: 5249312539565586084
+      coggers_53: 7457541183855691060
+      coggers_54: -2404766004774029258
+      coggers_55: 2425477368964933674
+      coggers_56: -3748568035795530677
+      coggers_57: 3346247320086942711
+      coggers_58: 5674641313950078988
+      coggers_59: -8309526907319175459
+      coggers_6: -316982538232112763
+      coggers_7: 2267447031573296768
+      coggers_8: 3575649014891786258
+      coggers_9: -3457988827649061778
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

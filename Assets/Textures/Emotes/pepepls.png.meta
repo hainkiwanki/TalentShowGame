@@ -78,7 +78,7 @@ TextureImporter:
       213: 3012680055371408022
     second: pepepls_24
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -98,6 +98,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -107,8 +109,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -129,10 +131,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -160,6 +166,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -624,6 +642,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pepepls_0: -5930466033193081206
+      pepepls_1: -4049737177492059526
+      pepepls_10: -4417767787627272564
+      pepepls_11: -7859614712645314515
+      pepepls_12: -1788156785654454102
+      pepepls_13: -7138328367881883135
+      pepepls_14: 7061889841606910339
+      pepepls_15: 3579849776578182624
+      pepepls_16: 8545453859488746505
+      pepepls_17: -2269911893837206164
+      pepepls_18: -8589405104287508542
+      pepepls_19: -8358765151548615143
+      pepepls_2: -7966083426963112683
+      pepepls_20: 1533981700191908066
+      pepepls_3: -5364704357421499540
+      pepepls_4: -7793507691039665442
+      pepepls_5: -8551442413007031513
+      pepepls_6: -8664102168919058327
+      pepepls_7: 5847610478870638942
+      pepepls_8: -9076665774703653327
+      pepepls_9: 2302215298404163336
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

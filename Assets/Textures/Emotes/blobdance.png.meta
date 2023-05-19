@@ -8997,7 +8997,7 @@ TextureImporter:
       213: 2895747414378143705
     second: blobdance_2997
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -9017,6 +9017,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -9026,8 +9028,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -9048,10 +9050,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -9079,6 +9085,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -9879,6 +9897,44 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      blobdance_0: 945686764694544782
+      blobdance_1: -2239495214744910157
+      blobdance_10: -2182116761044668197
+      blobdance_11: 2879830556053683043
+      blobdance_12: 13904782584988189
+      blobdance_13: 4835793162723809353
+      blobdance_14: 157007504252576030
+      blobdance_15: 4078790811035100618
+      blobdance_16: -4908732432195409868
+      blobdance_17: 8450435457195044010
+      blobdance_18: -7360612299560703454
+      blobdance_19: 2453789324882602034
+      blobdance_2: -8885764146295661088
+      blobdance_20: -2438118022297965766
+      blobdance_21: -4858913414991038200
+      blobdance_22: -8661257041112177760
+      blobdance_23: -1028359327127755319
+      blobdance_24: 4658126755431308804
+      blobdance_25: -3657547482207643907
+      blobdance_26: 9084147287949194251
+      blobdance_27: 4072190825555694556
+      blobdance_28: 3702156099397239023
+      blobdance_29: 4947660817710624328
+      blobdance_3: -274500397900067838
+      blobdance_30: 8766082651626962690
+      blobdance_31: 7284019704164810921
+      blobdance_32: -5119681503332040202
+      blobdance_33: -430725453808554729
+      blobdance_34: 8758927887945735193
+      blobdance_35: -7354957055350521665
+      blobdance_36: -2883677293206195944
+      blobdance_4: 4672932883754457005
+      blobdance_5: 7014699413254479533
+      blobdance_6: 6000399198879969475
+      blobdance_7: -3898880970344868613
+      blobdance_8: -3942826034378469572
+      blobdance_9: 8160329871777210733
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

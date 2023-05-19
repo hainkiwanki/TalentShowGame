@@ -78,7 +78,7 @@ TextureImporter:
       213: 7575514792007085205
     second: sumsmash_24
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -98,6 +98,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -107,8 +109,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -129,10 +131,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -160,6 +166,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -687,6 +705,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sumsmash_0: 556105574850916473
+      sumsmash_1: 7139606989048408993
+      sumsmash_10: 3386308862011703076
+      sumsmash_11: -1016746436545486222
+      sumsmash_12: -8372438100060482539
+      sumsmash_13: 455637714724235412
+      sumsmash_14: -5883749483580621017
+      sumsmash_15: -7461362410760185500
+      sumsmash_16: 9036164575633423608
+      sumsmash_17: 4934513510024426234
+      sumsmash_18: -1229199614567881758
+      sumsmash_19: 6894710264637303090
+      sumsmash_2: 5004375994766457332
+      sumsmash_20: -8253734772334887142
+      sumsmash_21: -170420730388366347
+      sumsmash_22: -3570729957386234611
+      sumsmash_23: 1376654420314989132
+      sumsmash_3: 5427562106812015336
+      sumsmash_4: 3755497458207783043
+      sumsmash_5: -1047155130984988875
+      sumsmash_6: -6736006443217531166
+      sumsmash_7: -7943375808634003963
+      sumsmash_8: -5236396502485742173
+      sumsmash_9: 2047558484414384467
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

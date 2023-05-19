@@ -183,7 +183,7 @@ TextureImporter:
       213: -8393855658672672306
     second: gachihyper_59
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -203,6 +203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -212,8 +214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -234,10 +236,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -265,6 +271,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1548,6 +1566,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      gachihyper_0: -8609723335342789685
+      gachihyper_1: 904674105373440584
+      gachihyper_10: -7719304687873233136
+      gachihyper_11: -3883626436989087876
+      gachihyper_12: -5137164274048840551
+      gachihyper_13: 8860227256731681992
+      gachihyper_14: -6624889645826976086
+      gachihyper_15: -1848806177877815762
+      gachihyper_16: -4261502459716256099
+      gachihyper_17: -573422110177727267
+      gachihyper_18: -135688803804816108
+      gachihyper_19: -134498936490601778
+      gachihyper_2: 4511164871442785927
+      gachihyper_20: 616939491751758042
+      gachihyper_21: 489747313753538313
+      gachihyper_22: 2993505204203930733
+      gachihyper_23: 4836213487923240199
+      gachihyper_24: 6989700244547372402
+      gachihyper_25: 652166975446366541
+      gachihyper_26: 5308847298572621293
+      gachihyper_27: 3525480404542487758
+      gachihyper_28: -3216810938253912524
+      gachihyper_29: 7752506882936292150
+      gachihyper_3: 669371767394474875
+      gachihyper_30: 851500328365581401
+      gachihyper_31: -7280576223908148724
+      gachihyper_32: 3262679457120905363
+      gachihyper_33: 7595395785931317360
+      gachihyper_34: 7814077703438811593
+      gachihyper_35: 7123386014774443919
+      gachihyper_36: -7693108764707223305
+      gachihyper_37: 7814752802144542298
+      gachihyper_38: -7702840451002463070
+      gachihyper_39: 3075600551606572465
+      gachihyper_4: -113316526425686595
+      gachihyper_40: 7494334936595258719
+      gachihyper_41: -4073283056563883867
+      gachihyper_42: 1488862209324411816
+      gachihyper_43: 736148490179532807
+      gachihyper_44: 503595813361545125
+      gachihyper_45: 291843640007771502
+      gachihyper_46: 1933674471521540713
+      gachihyper_47: -897136668820528209
+      gachihyper_48: -8706451017673364599
+      gachihyper_49: -7021628296525832556
+      gachihyper_5: -4743721740426982325
+      gachihyper_50: 5658206846125095123
+      gachihyper_51: -6903731397421281312
+      gachihyper_52: -5639979431093280390
+      gachihyper_53: -1895460882672668356
+      gachihyper_54: -4315140448201557645
+      gachihyper_55: -3523631149850779689
+      gachihyper_56: -7478017529443786574
+      gachihyper_57: 8910835750526866365
+      gachihyper_58: 7003157140436854737
+      gachihyper_59: -8393855658672672306
+      gachihyper_6: -4405283784327820631
+      gachihyper_7: 1866013851305549591
+      gachihyper_8: -4658368422958023968
+      gachihyper_9: 7795203321126679077
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -183,7 +183,7 @@ TextureImporter:
       213: 1640501933435744532
     second: salami_59
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -203,6 +203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -212,8 +214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -234,10 +236,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -265,6 +271,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1548,6 +1566,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      salami_0: 4597276819649566171
+      salami_1: -7964825510969133222
+      salami_10: 4364081194943816944
+      salami_11: -3420805612948668167
+      salami_12: -2812018594395900689
+      salami_13: -7887271765876231505
+      salami_14: -3973903546333776687
+      salami_15: -7159217504755414389
+      salami_16: 7721163761633145199
+      salami_17: 7792643814841688982
+      salami_18: 9085181444769163780
+      salami_19: -5174526065606968134
+      salami_2: 4947528199589792718
+      salami_20: -2178234883564472377
+      salami_21: -9188671777441410140
+      salami_22: -3562061565936989244
+      salami_23: 3700876422093258450
+      salami_24: 3346033941294039120
+      salami_25: 8769274530884539185
+      salami_26: -8210779679156023484
+      salami_27: -2575970491905778843
+      salami_28: 8727940277769363515
+      salami_29: 7315780013049172300
+      salami_3: -5972754831844257663
+      salami_30: -6811527987739580784
+      salami_31: 5674245090471616108
+      salami_32: -951709850391023914
+      salami_33: -7100626215083983286
+      salami_34: 1863556481912154645
+      salami_35: 188398129293974036
+      salami_36: -3285058529482976234
+      salami_37: -6155663957328855440
+      salami_38: -1932194052450583544
+      salami_39: 560011420890460395
+      salami_4: 4569127930913231146
+      salami_40: 2725298478135909129
+      salami_41: 6394757999296870008
+      salami_42: -8269976128110946359
+      salami_43: 4417719408807024602
+      salami_44: 6610691119182077608
+      salami_45: 8092603681864531414
+      salami_46: -6885422503039435138
+      salami_47: -2141204280007589791
+      salami_48: 5769643789179769698
+      salami_49: -3472599402521069185
+      salami_5: 7799105562037914
+      salami_50: -6118271374252890020
+      salami_51: -4498568629714388626
+      salami_52: 8097255133118075153
+      salami_53: -2117685002191869470
+      salami_54: 2030825454310486849
+      salami_55: 779228678792311010
+      salami_56: 2886562286971547290
+      salami_57: 4803571749525635562
+      salami_58: -7127875177539990031
+      salami_59: 1640501933435744532
+      salami_6: 3678397968239176504
+      salami_7: 3400585699968828356
+      salami_8: -7084788580281305166
+      salami_9: -3759933896008378235
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

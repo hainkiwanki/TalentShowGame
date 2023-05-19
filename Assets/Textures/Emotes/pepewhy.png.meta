@@ -273,7 +273,7 @@ TextureImporter:
       213: -6654891972782724089
     second: pepewhy_89
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -293,6 +293,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -302,8 +304,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -324,10 +326,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -355,6 +361,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2268,6 +2286,97 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pepewhy_0: -4215402856383128157
+      pepewhy_1: 7614882874484362626
+      pepewhy_10: 7039357633740220200
+      pepewhy_11: 8190602887778078379
+      pepewhy_12: 6260191672778476646
+      pepewhy_13: -1579884966005408130
+      pepewhy_14: -3758336188797602823
+      pepewhy_15: -3984601686689987391
+      pepewhy_16: 102398993066397788
+      pepewhy_17: 343227787115765929
+      pepewhy_18: -8905247399963185570
+      pepewhy_19: 7638039966247592943
+      pepewhy_2: 9048422270460170559
+      pepewhy_20: 2273608791415880577
+      pepewhy_21: 9144181086079204913
+      pepewhy_22: -1804010274275640440
+      pepewhy_23: 3654643285607177545
+      pepewhy_24: 8540769179923167093
+      pepewhy_25: 3525224437693124827
+      pepewhy_26: 7247514202309870592
+      pepewhy_27: 7176253310923221976
+      pepewhy_28: -4311206689867176764
+      pepewhy_29: 7586716848736279474
+      pepewhy_3: 2256528221915304756
+      pepewhy_30: -4822124792734126966
+      pepewhy_31: 6872975546867728562
+      pepewhy_32: -540080497877322693
+      pepewhy_33: -4147610137869048302
+      pepewhy_34: 5400015903614376084
+      pepewhy_35: -1561904743536072464
+      pepewhy_36: -7511229256029606099
+      pepewhy_37: 3651767168836813147
+      pepewhy_38: 8782310433820884964
+      pepewhy_39: -3553681360102120668
+      pepewhy_4: -2029217092250668252
+      pepewhy_40: 8434238903109804429
+      pepewhy_41: -4981489330539112148
+      pepewhy_42: 5301180280061527291
+      pepewhy_43: -4778457432431341718
+      pepewhy_44: -2017311779912221240
+      pepewhy_45: 5756855075383339570
+      pepewhy_46: 8811130746249356136
+      pepewhy_47: 8118636260591321330
+      pepewhy_48: 5907526963452917867
+      pepewhy_49: -8670414935177866862
+      pepewhy_5: 3617862933240173791
+      pepewhy_50: -3048732790652411012
+      pepewhy_51: -8592737696373198334
+      pepewhy_52: 8423050206711913083
+      pepewhy_53: -5371606369340863239
+      pepewhy_54: 3742650702916485496
+      pepewhy_55: -3242917291942635248
+      pepewhy_56: 7581576877994218991
+      pepewhy_57: -8104865173098026463
+      pepewhy_58: 5428520939281568940
+      pepewhy_59: 4244360737669688955
+      pepewhy_6: -2602582080575111536
+      pepewhy_60: -3854328044999066024
+      pepewhy_61: -8962524822262622417
+      pepewhy_62: -6022145936752499226
+      pepewhy_63: 6806691773057644993
+      pepewhy_64: 1707242470875688474
+      pepewhy_65: 8674772469860969712
+      pepewhy_66: -1449926346582892367
+      pepewhy_67: -167357950901800514
+      pepewhy_68: -6076149586179489588
+      pepewhy_69: 5993930728954107523
+      pepewhy_7: -388066621759529878
+      pepewhy_70: 8447848488555772817
+      pepewhy_71: -8563706857441965230
+      pepewhy_72: -3722172425572091499
+      pepewhy_73: -8327455015516319431
+      pepewhy_74: 295257689480912935
+      pepewhy_75: 6963513849118936217
+      pepewhy_76: 2538728227358862563
+      pepewhy_77: 796991574299974585
+      pepewhy_78: -7020918950844306129
+      pepewhy_79: -1962307218493449135
+      pepewhy_8: -2785816659164824432
+      pepewhy_80: 1112665280103386350
+      pepewhy_81: 7094593499495534676
+      pepewhy_82: 3356815674752667761
+      pepewhy_83: 5271043566338437777
+      pepewhy_84: -670646177601125372
+      pepewhy_85: 6849115262894786513
+      pepewhy_86: 8573267028764681159
+      pepewhy_87: 1626899112972584556
+      pepewhy_88: -3162770048182493821
+      pepewhy_89: -6654891972782724089
+      pepewhy_9: 5987689423986358991
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

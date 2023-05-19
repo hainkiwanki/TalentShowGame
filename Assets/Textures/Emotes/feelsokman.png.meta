@@ -93,7 +93,7 @@ TextureImporter:
       213: -812366385838832940
     second: feelsokman_29
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -113,6 +113,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,8 +124,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -144,10 +146,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -175,6 +181,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -828,6 +846,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      feelsokman_0: 851799172944592120
+      feelsokman_1: -8287851669228424059
+      feelsokman_10: -8362338606659894553
+      feelsokman_11: 5242064630097909417
+      feelsokman_12: 6698859608767959150
+      feelsokman_13: 2665750611506696070
+      feelsokman_14: -3806706559597432725
+      feelsokman_15: -270025162789572378
+      feelsokman_16: -4574497634979021370
+      feelsokman_17: 9160980055707820713
+      feelsokman_18: 8204477719990269229
+      feelsokman_19: -995724124005234787
+      feelsokman_2: -4337849071573199872
+      feelsokman_20: 3253256064216560808
+      feelsokman_21: -9109301420037723568
+      feelsokman_22: -2904737108934036471
+      feelsokman_23: -82838054423404330
+      feelsokman_24: 8431114905521006178
+      feelsokman_25: 1222789216587806579
+      feelsokman_26: -6054214576150582762
+      feelsokman_27: -3321290241773941003
+      feelsokman_28: 4261599077698443057
+      feelsokman_29: -812366385838832940
+      feelsokman_3: -83837639411142909
+      feelsokman_4: 5178312840046290737
+      feelsokman_5: 2287238987658690105
+      feelsokman_6: -3608371471873738969
+      feelsokman_7: -5633329325458177648
+      feelsokman_8: 3945146805225886013
+      feelsokman_9: 8755980842504787987
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

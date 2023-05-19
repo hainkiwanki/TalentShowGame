@@ -96,7 +96,7 @@ TextureImporter:
       213: -7396244201074920073
     second: pepegacredit_30
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -116,6 +116,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -125,8 +127,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -147,10 +149,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -178,6 +184,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -852,6 +870,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pepegacredit_0: -5828242221981220680
+      pepegacredit_1: 5864488342162774067
+      pepegacredit_10: 6451804890297591830
+      pepegacredit_11: -7438825129911085231
+      pepegacredit_12: -75718859306233308
+      pepegacredit_13: 2598732395379563619
+      pepegacredit_14: 2945131294025487290
+      pepegacredit_15: 859966152130647957
+      pepegacredit_16: -6662619866444618625
+      pepegacredit_17: 8995478150395979813
+      pepegacredit_18: -8319660823927125941
+      pepegacredit_19: 4843202241002740883
+      pepegacredit_2: 5439029342073129264
+      pepegacredit_20: -7400409792755691071
+      pepegacredit_21: 7617247961946597939
+      pepegacredit_22: 5143920142336397758
+      pepegacredit_23: 7324869222953208168
+      pepegacredit_24: 4599655349972627137
+      pepegacredit_25: -5664784228848322453
+      pepegacredit_26: -7895712969201768046
+      pepegacredit_27: -484402112443223655
+      pepegacredit_28: -7545290113827709445
+      pepegacredit_29: -5443987827709246822
+      pepegacredit_3: 3185796785966279356
+      pepegacredit_30: -7396244201074920073
+      pepegacredit_4: 598109274179258729
+      pepegacredit_5: -1288222605126268487
+      pepegacredit_6: -6632221946370100539
+      pepegacredit_7: 437790938804707626
+      pepegacredit_8: -2627667972759109641
+      pepegacredit_9: 1596707113532170550
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

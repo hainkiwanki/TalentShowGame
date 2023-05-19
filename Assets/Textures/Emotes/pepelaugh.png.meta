@@ -93,7 +93,7 @@ TextureImporter:
       213: 878183530865706118
     second: pepelaugh_29
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -113,6 +113,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,8 +124,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -144,10 +146,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -175,6 +181,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -828,6 +846,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pepelaugh_0: -8695136640223915161
+      pepelaugh_1: -3655415792870979203
+      pepelaugh_10: 7723169220405021196
+      pepelaugh_11: 1627703199833617266
+      pepelaugh_12: -1535896462170833886
+      pepelaugh_13: -6471190656052542422
+      pepelaugh_14: 2018836817394590484
+      pepelaugh_15: -808966292697650700
+      pepelaugh_16: 3672562117831507900
+      pepelaugh_17: -1297949590531108746
+      pepelaugh_18: -5836852649752361642
+      pepelaugh_19: -6977731546098621583
+      pepelaugh_2: -4920644701133304536
+      pepelaugh_20: 511324295074748101
+      pepelaugh_21: -8919938476363643139
+      pepelaugh_22: -16863097625041376
+      pepelaugh_23: -464329062106457014
+      pepelaugh_24: 849574688344736661
+      pepelaugh_25: -4837826639114165367
+      pepelaugh_26: 2886537078836328912
+      pepelaugh_27: -2349013025381799328
+      pepelaugh_28: -5559421786240849154
+      pepelaugh_29: 878183530865706118
+      pepelaugh_3: -1734342265922165349
+      pepelaugh_4: 3263007387905390665
+      pepelaugh_5: -5924985469501384952
+      pepelaugh_6: -7635085960959937975
+      pepelaugh_7: 7274400033885345403
+      pepelaugh_8: -2426067035277252846
+      pepelaugh_9: 4764371334791568985
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -75,7 +75,7 @@ TextureImporter:
       213: -6646441062046490575
     second: pepesmoke_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -95,6 +95,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,8 +106,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -126,10 +128,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -157,6 +163,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -684,6 +702,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pepesmoke_0: 1078828149682311762
+      pepesmoke_1: -3628012645152546826
+      pepesmoke_10: 7240774511895531420
+      pepesmoke_11: -3254349913948647344
+      pepesmoke_12: 8544400359068511913
+      pepesmoke_13: 7088589889706263415
+      pepesmoke_14: -9164954700114319413
+      pepesmoke_15: 1357287780383330842
+      pepesmoke_16: -9094650859810778896
+      pepesmoke_17: 1613538588616633455
+      pepesmoke_18: 5364661938708823154
+      pepesmoke_19: -2143627508306230336
+      pepesmoke_2: -970389259856687657
+      pepesmoke_20: -199943682606436713
+      pepesmoke_21: 7901610533342875724
+      pepesmoke_22: 2264324558712332471
+      pepesmoke_23: -6646441062046490575
+      pepesmoke_3: 673397175580126072
+      pepesmoke_4: -1616660119612726549
+      pepesmoke_5: -2705604562129798678
+      pepesmoke_6: -7678819135054757623
+      pepesmoke_7: 8704911279427401662
+      pepesmoke_8: 4498094428637169133
+      pepesmoke_9: 2681156845935714426
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

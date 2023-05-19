@@ -186,7 +186,7 @@ TextureImporter:
       213: 5433535742653242722
     second: pepegaaim_60
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -206,6 +206,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -215,8 +217,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -237,10 +239,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -268,6 +274,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1572,6 +1590,68 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pepegaaim_0: 1242019862176752526
+      pepegaaim_1: 6484368760729690882
+      pepegaaim_10: 4753302985137020303
+      pepegaaim_11: 7500971702066340742
+      pepegaaim_12: 4735336535970291666
+      pepegaaim_13: -3307261038025210363
+      pepegaaim_14: -7258757177504448155
+      pepegaaim_15: -801446357493491350
+      pepegaaim_16: -8666782970671198238
+      pepegaaim_17: -1588909304731334953
+      pepegaaim_18: 3382014128090690799
+      pepegaaim_19: -6154614626950906834
+      pepegaaim_2: -9130181938581346715
+      pepegaaim_20: -3720386466660517547
+      pepegaaim_21: -5653829736869775082
+      pepegaaim_22: -8048853843100255778
+      pepegaaim_23: -310621460037656829
+      pepegaaim_24: 5546407945491696367
+      pepegaaim_25: 7153155350363583261
+      pepegaaim_26: 1110069966158412364
+      pepegaaim_27: -8432512665323462285
+      pepegaaim_28: -6618981527674126256
+      pepegaaim_29: 4695552677752499192
+      pepegaaim_3: -8552518859039760425
+      pepegaaim_30: 988584941521032523
+      pepegaaim_31: 5401896094472692143
+      pepegaaim_32: -7983873356803079355
+      pepegaaim_33: 6308720048858848560
+      pepegaaim_34: 7018627556103646478
+      pepegaaim_35: -6015713232626698727
+      pepegaaim_36: 7832604422055214106
+      pepegaaim_37: -3274261480142361998
+      pepegaaim_38: -1706784698748179618
+      pepegaaim_39: 7676856055527538979
+      pepegaaim_4: 3582916666230533902
+      pepegaaim_40: 8019958194886813071
+      pepegaaim_41: 517544200126202752
+      pepegaaim_42: -3904524824847067811
+      pepegaaim_43: 4955285876000974396
+      pepegaaim_44: 7076332768803014768
+      pepegaaim_45: -5661420412648046047
+      pepegaaim_46: -3128438247054928291
+      pepegaaim_47: 3610446658291853013
+      pepegaaim_48: 9022677675211816290
+      pepegaaim_49: 6045116852388934654
+      pepegaaim_5: 7735028502529247017
+      pepegaaim_50: 2367007860434620094
+      pepegaaim_51: -7167975656375234039
+      pepegaaim_52: -293948537126211846
+      pepegaaim_53: 1030436189806791793
+      pepegaaim_54: 166606398973953824
+      pepegaaim_55: -2001320093029060758
+      pepegaaim_56: 4781404534238548965
+      pepegaaim_57: 953427179256899296
+      pepegaaim_58: -8273493392205104301
+      pepegaaim_59: 8022186750531499315
+      pepegaaim_6: 3934981788903244221
+      pepegaaim_60: 5433535742653242722
+      pepegaaim_7: -4408606264659506098
+      pepegaaim_8: -1359220153372854882
+      pepegaaim_9: 8515646347837028529
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

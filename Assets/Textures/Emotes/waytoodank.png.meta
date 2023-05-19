@@ -225,7 +225,7 @@ TextureImporter:
       213: 7133721408662060044
     second: waytoodank_73
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -245,6 +245,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -254,8 +256,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -276,10 +278,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -307,6 +313,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1884,6 +1902,81 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      waytoodank_0: 8850409310563530440
+      waytoodank_1: 1428281906256640108
+      waytoodank_10: 4124895255915760524
+      waytoodank_11: 2135432923426849035
+      waytoodank_12: 4563454407242989707
+      waytoodank_13: 9039157969527461801
+      waytoodank_14: -5959468868866427626
+      waytoodank_15: 2160029052341301521
+      waytoodank_16: -8928298457173507297
+      waytoodank_17: -1123638469719938280
+      waytoodank_18: -2502346484627249850
+      waytoodank_19: 7543431040320062792
+      waytoodank_2: 7142063304895751718
+      waytoodank_20: -3977659342174448768
+      waytoodank_21: -6785425656905365805
+      waytoodank_22: -647465277130931470
+      waytoodank_23: 7795899118577638377
+      waytoodank_24: 2254731038570713964
+      waytoodank_25: -4299261137994820333
+      waytoodank_26: -6022884917350004495
+      waytoodank_27: 7752364014008854723
+      waytoodank_28: -1970242782209565134
+      waytoodank_29: -4740083349651982278
+      waytoodank_3: 2556051694774646962
+      waytoodank_30: 617383885822997448
+      waytoodank_31: -482148455906614116
+      waytoodank_32: -3915938480697784046
+      waytoodank_33: 5154819715655106634
+      waytoodank_34: -6407393422157740486
+      waytoodank_35: -750091688370265571
+      waytoodank_36: 5234531146337727066
+      waytoodank_37: 2557770826350522619
+      waytoodank_38: 1790416572302443541
+      waytoodank_39: 838418205850485847
+      waytoodank_4: 8013534102792076523
+      waytoodank_40: -3668783030987500574
+      waytoodank_41: -8419471681854408691
+      waytoodank_42: -5688971509994726659
+      waytoodank_43: -4597927497158902530
+      waytoodank_44: 2975654213942553103
+      waytoodank_45: 8152695702455281159
+      waytoodank_46: -1186776289804026385
+      waytoodank_47: -7445529247854998106
+      waytoodank_48: 2148931972578148427
+      waytoodank_49: 7974076294361832511
+      waytoodank_5: -8326236024596574050
+      waytoodank_50: 8660160430980958913
+      waytoodank_51: -1259964192384578674
+      waytoodank_52: 3001529770704261762
+      waytoodank_53: -3720409818494110231
+      waytoodank_54: 7481528472816902464
+      waytoodank_55: -990184314328978595
+      waytoodank_56: 4670810027718357715
+      waytoodank_57: -3401747736627917497
+      waytoodank_58: -6209479979322107710
+      waytoodank_59: -407298779219032813
+      waytoodank_6: 2299240053703845707
+      waytoodank_60: -2981480328910878769
+      waytoodank_61: 8270360315167506365
+      waytoodank_62: 5108005321433728217
+      waytoodank_63: -3916679983273120534
+      waytoodank_64: -1175272546039627965
+      waytoodank_65: -190601825321260856
+      waytoodank_66: 8763258236879227244
+      waytoodank_67: 1057982234964537762
+      waytoodank_68: 1904036339580055633
+      waytoodank_69: 6028447667182422931
+      waytoodank_7: 617339887715603756
+      waytoodank_70: 9079768756530810751
+      waytoodank_71: -2341429898449117726
+      waytoodank_72: -5063312991857307455
+      waytoodank_73: 7133721408662060044
+      waytoodank_8: -8812696401239824846
+      waytoodank_9: -8957014616948193693
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

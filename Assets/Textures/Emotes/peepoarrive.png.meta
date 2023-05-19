@@ -102,7 +102,7 @@ TextureImporter:
       213: 313489162884731634
     second: peepoarrive_32
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -122,6 +122,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -131,8 +133,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -153,10 +155,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -184,6 +190,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -900,6 +918,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      peepoarrive_0: -2679388658738146054
+      peepoarrive_1: -8068238549174756888
+      peepoarrive_10: 9083119347746407956
+      peepoarrive_11: 8913062435416060696
+      peepoarrive_12: -8919821925210769028
+      peepoarrive_13: 1628199149269875953
+      peepoarrive_14: -5589589606440305988
+      peepoarrive_15: -6508176234414268653
+      peepoarrive_16: 6727552681332713256
+      peepoarrive_17: 3675661878239783085
+      peepoarrive_18: -8610619020717903654
+      peepoarrive_19: 2660104114413703121
+      peepoarrive_2: -5766426697696186560
+      peepoarrive_20: 5685420609325746805
+      peepoarrive_21: 9185009361308607123
+      peepoarrive_22: -6918951418186704942
+      peepoarrive_23: -9110461416819709631
+      peepoarrive_24: -8106615631523310744
+      peepoarrive_25: 7147763952880973998
+      peepoarrive_26: -6786058300214903973
+      peepoarrive_27: 210083268121002539
+      peepoarrive_28: -7349050597493076007
+      peepoarrive_29: -2783582477742830469
+      peepoarrive_3: -2619606867327614547
+      peepoarrive_30: 4542372566237076372
+      peepoarrive_31: -3855631256081003855
+      peepoarrive_32: 313489162884731634
+      peepoarrive_4: -9065192045580363834
+      peepoarrive_5: -3216484188821624412
+      peepoarrive_6: 1984395709420477038
+      peepoarrive_7: -791081881241158039
+      peepoarrive_8: 7973833569953188519
+      peepoarrive_9: -4175512000303588484
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
